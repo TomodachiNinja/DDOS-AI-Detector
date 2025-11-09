@@ -249,10 +249,12 @@ If you use this project in your research or work, please cite:
   howpublished={\url{https://github.com/yourusername/DDoS_AI_Detector}}
 }
 ```
+LOCALHOST: http://127.0.0.1:5500/web/templates/dashboard.html
 
 <div align="center">
 
 [![Star](https://img.shields.io/github/stars/yourusername/DDoS_AI_Detector?style=social)](https://github.com/yourusername/DDoS_AI_Detector)
 
 </div>
+
 
