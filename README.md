@@ -21,6 +21,7 @@ This system uses an ensemble of AI models (Random Forest + Isolation Forest) to 
 - ✅ **Zero-day Detection** - Behavioral analysis catches unknown attacks
 - ✅ **Automated Mitigation** - Instant response without human intervention
 
+PPT OVERVIEW : https://docs.google.com/presentation/d/1-y4Jb1zKoOxzKjWXbQ0Dda3eltURBwVR/edit?usp=sharing&ouid=107569364087743177946&rtpof=true&sd=true
 ## 🏗️ Architecture
 
 ```
@@ -256,5 +257,6 @@ LOCALHOST: http://127.0.0.1:5500/web/templates/dashboard.html
 [![Star](https://img.shields.io/github/stars/yourusername/DDoS_AI_Detector?style=social)](https://github.com/yourusername/DDoS_AI_Detector)
 
 </div>
+
 
 
